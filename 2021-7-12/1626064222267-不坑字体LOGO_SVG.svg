@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 632 632">
+	<g id="c">
+		<path d="M885.26,619.06A310.63,310.63,0,0,1,696,683c-172.31,0-312-139.69-312-312a310.51,310.51,0,0,1,54.67-176.47" transform="translate(-379 -54)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="0s" dur="6s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+		<path d="M490.09,136.59A310.8,310.8,0,0,1,696,59c172.31,0,312,139.69,312,312a310.52,310.52,0,0,1-56.77,179.49" transform="translate(-379 -54)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="0s" dur="6s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+	</g>
+	<g id="b">
+		<ellipse cx="415.35" cy="151.86" rx="38.88" ry="40.31"  fill="#fccf0a" fill-opacity="0">
+		  <animate  attributeName="fill-opacity" from="0" to="1" begin="4s" dur="1.5s"  keySplines="0.8 0 0.2 1" repeatCount="indefinite"/>
+		</ellipse>
+	</g>
+	<g id="a">
+		<line x1="91.39" y1="105.79" x2="287.2" y2="105.79" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"  stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="0s" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</line>
+		<line x1="189.35" y1="105.79" x2="189.35" y2="526.21" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="0.5s" dur="1.5s" fill="freeze" calcMode="spline" keySplines="1 0.3 0 0.2"></animate>
+		</line>
+		<path d="M511.58,199.46s5.76,253.41-43.19,305.24" transform="translate(-377 -62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="1s" dur="2s" fill="freeze" calcMode="spline" keySplines="1 0.3 0 0.2"></animate>
+		</path>
+		<path d="M613.81,232.58V379.44s0,17.28,14.4,17.28H680" transform="translate(-377 -62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="1.5s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+		<line x1="277.6" y1="235.37" x2="277.6" y2="520.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="2s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</line>
+		<path d="M721.8,323.29v237s0,27.88-25,27.88H606.61" transform="translate(-377 -62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="1500;0" attributeName="stroke-dashoffset" begin="2.5s" dur="2s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+		<path d="M920.49,490.31v66.23c0,23-14.4,25.91-14.4,25.91s-48.59,2.88-55.79,0-7.2-23-7.2-23V308.89c0-17.28-12.6-17.28-12.6-17.28h-77" transform="translate(-377 -62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="-1500;0" attributeName="stroke-dashoffset" begin="2.5s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+		
+		<path d="M783.17,171c19,2.64,33.65,19.52,33.65,39.95,0,22.27-17.4,40.32-38.87,40.32S739.07,233.25,739.07,211a41.36,41.36,0,0,1,4.62-19.07" transform="translate(-377 -62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" stroke-dasharray="1500,1500"  stroke-dashoffset="1500">
+			<animate values="-1500;0" attributeName="stroke-dashoffset" begin="3s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"></animate>
+		</path>
+		<!-- <path d="M724.68,349.2" transform="translate(-377 -62)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>	 -->		
+	</g>
+</svg>
